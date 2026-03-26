@@ -1,1 +1,15 @@
 Course schema with Organisation
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Introduction to Computer Science",
+  "description": "An introductory course on computer science and programming.",
+  "provider": {
+    "@type": "Organization",
+    "name": "University of Technology",
+    "sameAs": "https://www.Google.com"
+  }
+}
+</script>
